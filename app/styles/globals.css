@@ -1,0 +1,26 @@
+:root {
+  --white-color: #FFFFFF;
+  --black-color: #121212;
+  /* --primary-color: "#" */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1280px;
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+a:focus,
+a {
+  text-decoration: none;
+  outline: none;
+  color: inherit;
+}

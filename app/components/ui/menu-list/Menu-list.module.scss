@@ -1,0 +1,12 @@
+.menulist {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+
+  li {
+    a {
+      font-size: 14px;
+    }
+  }
+}
